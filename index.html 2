@@ -1,0 +1,29 @@
+<!<!DOCTYPE html>
+<html>
+<head>
+  <<title>My Second Site </title>
+    <lang = 'en-us'
+  </head>
+
+  <<body>
+
+    <header>
+      <h1>Sports</h1>
+      <h3>All about sports!</h3>
+      </<header>
+      <br>
+      <h2>Sports Categories</h2>
+      <br>
+
+      <main>
+      <section>
+
+
+      <article>
+      <h3>Contact Sports</h3>
+      <p>Football, Basketball, Rugby, Wrestling</p>
+      </article>
+
+      <article>
+      <h3>Water Sports</h3>
+      <p> 
